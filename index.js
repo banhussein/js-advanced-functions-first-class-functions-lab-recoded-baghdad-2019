@@ -16,4 +16,6 @@ const returnFirstTwoDrivers=function(array){
   }
   
   const fareDoubler=createFareMultiplier(2)
-const fareTripler=
+const fareTripler=createFareMultiplier(3)
+
+
