@@ -15,5 +15,5 @@ const returnFirstTwoDrivers=function(array){
     return number*fare
   }
   
-  const fareDoubler=function(
-    )
+  const fareDoubler=createFareMultiplier(2)
+  
