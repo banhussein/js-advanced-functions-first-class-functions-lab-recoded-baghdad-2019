@@ -11,10 +11,10 @@ const returnFirstTwoDrivers=function(array){
   const createFareMultiplier=function (number){
     return function(fare){
       
-    }
+    
     return number*fare
   }
-  
+  }
   const fareDoubler=createFareMultiplier(2);
 const fareTripler=createFareMultiplier(3);
 
