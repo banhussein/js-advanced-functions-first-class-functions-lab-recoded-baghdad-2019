@@ -15,8 +15,8 @@ const returnFirstTwoDrivers=function(array){
     return number*fare
   }
   
-  const fareDoubler=createFareMultiplier(2)
-const fareTripler=createFareMultiplier(3)
+  const fareDoubler=createFareMultiplier(2);
+const fareTripler=createFareMultiplier(3);
 
 function selectDifferentDrivers(drivers,selector){
    if(selector == returnFirstTwoDrivers){
